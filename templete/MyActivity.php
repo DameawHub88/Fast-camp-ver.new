@@ -64,10 +64,10 @@
         }
         ?>
 
-        <div class="border-4 border-dashed border-gray-300 rounded-[30px] flex flex-col items-center justify-center p-6 text-gray-400 hover:border-blue-400 hover:text-blue-400 transition cursor-pointer">
+        <a href="ActivityManage.php" class="border-4 border-dashed border-gray-300 rounded-[30px] flex flex-col items-center justify-center p-6 text-gray-400 hover:border-blue-400 hover:text-blue-400 transition cursor-pointer">
             <span class="text-5xl font-bold mb-2">+</span>
             <span class="font-bold">เพิ่มกิจกรรมใหม่</span>
-        </div>
+        </a>
     </div>
 
 </body>
