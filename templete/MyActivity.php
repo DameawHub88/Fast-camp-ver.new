@@ -10,7 +10,7 @@
         body { font-family: 'Kanit', sans-serif; }
     </style>
 </head>
-<body class="bg-[#f0f7ff] text-">
+<body class="bg-[#f0f7ff] text-[#1e3a8a]">
 
     <header class="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row justify-between items-center gap-6">
         <div class="flex items-center gap-3">
