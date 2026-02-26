@@ -14,7 +14,7 @@
             <p class="text-gray-500 mt-2">สมัครสมาชิกเพื่อเข้าใช้งานระบบ</p>
         </div>
 
-        <form action="/register" method="POST" class="space-y-4">
+        <form action="main_ui.php" method="POST" class="space-y-4">
             
             <div>
                 <label class="block text-sm font-semibold text-gray-700 mb-1">NAME</label>
